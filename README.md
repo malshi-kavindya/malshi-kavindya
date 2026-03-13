@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in bui
 ### 📌 About Me
 
 - 🌱 Currently exploring Large Language Models (LLMs), efficient fine-tuning techniques, and modern full-stack technologies and cloud platforms.
-📚 Interested in studying and writing about computer architecture, algorithms, and advanced software engineering concepts.
+- 📚 Interested in studying and writing about computer architecture, algorithms, and advanced software engineering concepts.
 - 🎤 Actively organizing technical workshops, hackathons, and community events through the IEEE Computer Society.
 - Passionate about building scalable software systems, contributing to open-source projects, and solving real-world problems through technology.
 

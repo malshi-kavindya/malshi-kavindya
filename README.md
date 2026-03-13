@@ -1,17 +1,17 @@
 ## Hi there! 👋 I'm Malshi Wijesinghe 
 
-🚀 **Web Developer | Tech Enthusiast | Open-Source Contributor**
+🚀 **Full stack Developer | Tech Enthusiast | Open-Source Contributor**
 
-Welcome to my GitHub profile! I'm a passionate web developer specializing in building modern and efficient web applications. I love exploring new technologies and solving complex problems with clean and efficient code.
+Welcome to my GitHub profile! I'm a passionate full stack developer specializing in building modern and efficient web applications. I love exploring new technologies and solving complex problems with clean and efficient code.
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-- 💻 **Languages:** Python, PHP, Java, C++, JavaScript, Node.js, React, JSX, HTML, CSS
-- ⚡ **Testing & Automation:** Selenium, PyTest, Postman
-- 🔧 **Cloud & DevOp:** AWS, Azure, Docker, Git
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- 🧑‍💻 **Programming & Development:** Python, PHP, Java, C++, JavaScript, Node.js, React, JSX, HTML, CSS  
+- 🧪 **Testing & Automation:** Selenium, PyTest, Postman  
+- ☁️ **Cloud & DevOps:** AWS, Azure, Docker, Git  
+- 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB  
 
 
 ---
@@ -35,9 +35,10 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in bui
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/malshi-kavindya-51215b2a6))
+[![GitHub]([https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username](https://github.com/malshi-kavindya))
+[![Web](h[ttps://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username](https://malshi-kavindya.github.io/portfolio/))
+[![BLog]([https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username](https://technarratorr.blogspot.com/))
 
 ---
 

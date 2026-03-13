@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Malshi Kavindya 
+## Hi there! 👋 I'm Malshi Wijesinghe 
 
 🚀 **Web Developer | Tech Enthusiast | Open-Source Contributor**
 
@@ -8,18 +8,20 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in bui
 
 ### 🛠️ Technologies & Tools
 
-- 💻 **Languages:** PHP, JavaScript, HTML, CSS, Python
-- ⚡ **Frameworks & Libraries:** Bootstrap, jQuery, AJAX
-- 🔧 **Tools & Platforms:** Git, GitHub, MySQL, VS Code
+- 💻 **Languages:** Python, PHP, Java, C++, JavaScript, Node.js, React, JSX, HTML, CSS
+- ⚡ **Testing & Automation:** Selenium, PyTest, Postman
+- 🔧 **Cloud & DevOp:** AWS, Azure, Docker, Git
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
 
 ---
 
 ### 📌 About Me
 
-- 🌱 Currently exploring **React Native** & **Deep Learning**
-- 📚 I enjoy writing technical articles on **computer memory architecture** and **algorithms**
-- 🎤 Organizing tech events & workshops under **IEEE Computer Society**
-- ✨ Working on an **Environmental Awareness App** with interactive time capsules
+- 🌱 Currently exploring Large Language Models (LLMs), efficient fine-tuning techniques, and modern full-stack technologies and cloud platforms.
+📚 Interested in studying and writing about computer architecture, algorithms, and advanced software engineering concepts.
+- 🎤 Actively organizing technical workshops, hackathons, and community events through the IEEE Computer Society.
+- Passionate about building scalable software systems, contributing to open-source projects, and solving real-world problems through technology.
 
 ---
 
